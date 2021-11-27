@@ -5,12 +5,12 @@ estruturas utilizando o módulo collections da biblioteca padrão Python, permit
 
 Por uma questão de organização irei colocar um cronograma de estudos e atualização do repositório.
 
-- vetores                                  --> ate 26/11
-- algoritmo de busca linear                --> ate 26/11
-- algoritmo de ordenação: selection sort   --> ate 26/11
-- algoritmo de busca binária               --> ate 26/11
-- análise de algoritmos                    --> ate 26/11
+- vetores                                  OK
+- algoritmo de busca linear                OK
+- algoritmo de ordenação: selection sort   OK
+- algoritmo de busca binária               Ok
 
+- análise de algoritmos                    --> ate 29/11
 - listas ligadas                           --> ate 29/11
 - listas duplamente ligadas                --> ate 29/11
 - pilhas                                   --> ate 29/11
