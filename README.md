@@ -10,13 +10,13 @@ Por uma questão de organização irei colocar um cronograma de estudos e atuali
 - algoritmo de ordenação: selection sort   OK
 - algoritmo de busca binária               Ok
 
-- análise de algoritmos                    --> ate 01/12
-- listas ligadas                           --> ate 01/12
-- listas duplamente ligadas                --> ate 01/12
-- pilhas                                   --> ate 01/12
-- filas                                    --> ate 02/12
-- sets                                     --> ate 02/12
-- tabelas de espalhamento                  --> ate 02/12
+- análise de algoritmos                    --> ate 03/12
+- listas ligadas                           --> ate 03/12
+- listas duplamente ligadas                --> ate 03/12
+- pilhas                                   --> ate 03/12
+- filas                                    --> ate 04/12
+- sets                                     --> ate 04/12
+- tabelas de espalhamento                  --> ate 04/12
 - mapas                                    --> ate 05/12
 - árvores                                  --> ate 05/12
 
@@ -28,4 +28,5 @@ Por uma questão de organização irei colocar um cronograma de estudos e atuali
 - sets                                     --> ate 12/12
 - dictionaries                             --> ate 15/12
 - listas como pilhas                       --> ate 15/12
-- listas como filas                        --> ate 15/12
+- listas como filas                        --> ate 15/12 
+-----prazo final 15/12--------
