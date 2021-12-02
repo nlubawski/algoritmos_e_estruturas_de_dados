@@ -25,17 +25,17 @@ maximo em vetor ordenado, min em vetor ordenado, operacoes em pilha e fila
 Logaritmica: busca binaria(em lista ordenada), inserção/remoção em Heap, busca em profundidade em arvores binarias
 balanceadas
 
-Linear
+Linear: iteracoes, maximo/minimo/busca em lista nao ordenada, travessia em arvore
 
-Sublinear
+Sublinear: ordenacao complexa (Merge, Quick, Heap), ordenacao da lib padrao (uma vez que os melhores algoritmos
+de ordenacao tem essa complexidade, e natural que as linguagens tenham essa complexidade em geral)
 
-Quadratica
+Quadratica: ordenacao simples (selection, insertion, buble sort), travessia de matrix quadrada (nxn),
+iteracao dentro de outra iteracao
 
+Cubica: multiplicacao padrao de matrizes
 
-Cubica
-
-
-Ex
+Exponencial: fibonatti recursivo simples, torre de hanoi
 
 
 """
