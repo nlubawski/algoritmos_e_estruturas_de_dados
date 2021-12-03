@@ -1,15 +1,16 @@
-# 0 | 1 | 2 | 3 | 4
-# 5 | 2 | 4 | 6 | 1
-# 1 | 2 | 4 | 6 | 5
-# 1 | 2 | 4 | 5 | 6
+"""
+O selection sort é um algoritmo de ordenação baseado em se passar sempre o menor valor do vetor
+para a primeira posição, depois o de segundo menor valor para a segunda posição, e assim
+sucessivamente.
+É interessante notar que esse algortimo compara a cada iteracao um elemento com os outros,
+de forma que no final ele vai ter percorrido os dois laços por completo, independente de termos
+um vetor desordenado ou um ja ordenado. Por conta disso o pior caso se equivale ao melhor,
+consequente o caso medio também é o mesmo, ou seja, O(n²).
+"""
 
-# Melhor caso: N * N = N^2 O(n^2)
-# Pior caso: N * N = N^2 O(n^2)
-# Caso médio: N * N = N^2
-
-for i in range(tamanho): # N
-    indice_menor = i #5
-    for j in range(int(i + 1), tamanho): # N
+for i in range(tamanho):
+    indice_menor = i
+    for j in range(int(i + 1), tamanho):
         if numeros[j] < numeros[indice_menor]:
             indice_menor = j
     temp = numeros[indice_menor]
