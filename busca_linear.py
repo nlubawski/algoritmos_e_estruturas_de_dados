@@ -1,13 +1,15 @@
+"""A busca linear (ou busca sequencial) é um tipo de pesquisa em vetores ou listas
+ elemento por elemento, de modo que a função do tempo em relação ao número de elementos é linear.
+ Podemos observar que no melhor caso, o elemento a ser buscado é encontrado
+na primeira tentativa. No pior caso o elemento a ser
+buscado encontra-se na última posição, dessa forma temos n comparações.
+O caso medio e dado por (n+1)/2 comparações. O algoritmo de busca linear é um algoritmo O(n).
+"""
 
-# Melhor caso: 1 vez O(1)
-# Pior caso: N vezes O(n)
-# Caso médio: n/2 vezes
-
-numero_pesquisar = int(input("Digite o valor a ser pesquisado no vetor: ")) #2
+pesquisar = int(input("Digite o valor a ser pesquisado no vetor: "))
 posicao_resultado = -1
 for i in range(tamanho):
-    # 0 .. 5
-    if numeros[i] == numero_pesquisar:
+    if numeros[i] == pesquisar:
         posicao_resultado = i
         break
 if posicao_resultado < 0:
