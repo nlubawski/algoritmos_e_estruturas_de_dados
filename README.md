@@ -14,11 +14,11 @@ Por uma questão de organização irei colocar um cronograma de estudos e atuali
 - listas ligadas                           OK/Parcial
 - listas duplamente ligadas                OK/Parcial
 - pilhas                                   OK/Parcial
-- filas                                    --> ate 04/12
-- sets                                     --> ate 04/12
-- tabelas de espalhamento                  --> ate 04/12
-- mapas                                    --> ate 05/12
-- árvores                                  --> ate 05/12
+- filas                                    OK/Parcial
+- sets                                     OK/Parcial
+- tabelas de espalhamento                  OK/Parcial
+- mapas                                    OK/Parcial
+- árvores                                  OK/Parcial
 
 - lists                                    --> ate 09/12
 - iterators                                --> ate 09/12
