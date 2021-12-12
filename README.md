@@ -20,13 +20,13 @@ Por uma questão de organização irei colocar um cronograma de estudos e atuali
 - mapas                                    OK/Parcial
 - árvores                                  OK/Parcial
 
-- lists                                    --> ate 09/12
-- iterators                                --> ate 09/12
-- generators                               --> ate 09/12
-- tuples                                   --> ate 12/12
-- ranges                                   --> ate 12/12
-- sets                                     --> ate 12/12
-- dictionaries                             --> ate 15/12
-- listas como pilhas                       --> ate 15/12
-- listas como filas                        --> ate 15/12 
+- lists                                    --> ate 19/12
+- iterators                                --> ate 19/12
+- generators                               --> ate 19/12
+- tuples                                   --> ate 21/12
+- ranges                                   --> ate 21/12
+- sets                                     --> ate 21/12
+- dictionaries                             --> ate 21/12
+- listas como pilhas                       --> ate 21/12
+- listas como filas                        --> ate 21/12 
 -----prazo final 15/12--------
