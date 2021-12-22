@@ -5,6 +5,11 @@ estruturas utilizando o módulo collections da biblioteca padrão Python, permit
 
 Por uma questão de organização irei colocar um cronograma de estudos e atualização do repositório.
 
+Obs: Esse estudo será feito em duas partes, na primeira 
+vou dar mais um enfoque teórico, passando por todos temas e 
+em breve atualizarei o cronograma pra estudar a parte de 
+implementação detalhada. 
+
 - vetores                                  OK
 - algoritmo de busca linear                OK
 - algoritmo de ordenação: selection sort   OK
@@ -20,13 +25,13 @@ Por uma questão de organização irei colocar um cronograma de estudos e atuali
 - mapas                                    OK/Parcial
 - árvores                                  OK/Parcial
 
-- lists                                    --> ate 19/12
-- iterators                                --> ate 19/12
-- generators                               --> ate 19/12
-- tuples                                   --> ate 21/12
-- ranges                                   --> ate 21/12
-- sets                                     --> ate 21/12
-- dictionaries                             --> ate 21/12
-- listas como pilhas                       --> ate 21/12
-- listas como filas                        --> ate 21/12 
------prazo final 15/12--------
+- lists                                    OK/Parcial
+- iterators                                OK/Parcial
+- generators                               OK/Parcial
+- tuples                                   OK/Parcial
+- ranges                                   OK/Parcial
+- sets                                     --> ate 24/12
+- dictionaries                             --> ate 24/12
+- listas como pilhas                       --> ate 24/12
+- listas como filas                        --> ate 24/12 
+
